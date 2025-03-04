@@ -1,9 +1,11 @@
 languageCode = "en-US"
 layoutdir = "layouts"
 publishdir = "public"
-baseurl = "http://example.com/"
+baseurl = "/"
 googleAnalytics = ""
 theme = "hugo-vitae"
+relativeURLs = true
+uglyURLs = true
 
 [params]
   author = "Chris Turner"
